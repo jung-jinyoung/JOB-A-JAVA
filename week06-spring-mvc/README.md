@@ -34,6 +34,7 @@
 - `@WebMvcTest` — 슬라이스 테스트
 - `MockMvc`로 요청/응답 검증
 - `@SpringBootTest`와의 차이 (무엇을 언제 쓰는가)
+- `@MockBean`(또는 `Mockito.mock`)으로 Service 계층을 **가짜로 대체**하는 이유 — Controller 테스트에 실제 DB/Service 로직이 왜 필요 없는가
 
 ---
 
@@ -71,7 +72,7 @@ week06-spring-mvc/{이름}/
 - **요청·응답 DTO 분리** (엔티티 직접 노출 금지)
 - `@Valid`로 입력 검증
 - `@RestControllerAdvice`로 전역 예외 처리 + 일관된 에러 응답 포맷
-- `@WebMvcTest` 테스트 **3개 이상** (성공 / 검증 실패 / 없는 리소스)
+- `@WebMvcTest` 테스트 **3개 이상** (성공 / 검증 실패 / 없는 리소스) — Service는 `@MockBean`으로 대체
 
 **API 명세 작성 (필수)**
 
