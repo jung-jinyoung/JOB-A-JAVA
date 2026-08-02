@@ -111,6 +111,7 @@ java-study/
 │   ├── README.md                # 학습 주제 / 필수 제출물 / 알고리즘 문제
 │   ├── jung-jinyoung/
 │   │   ├── notes.md
+│   │   ├── notes/                # (선택) 주제별 상세 정리, 01-xxx.md 형식
 │   │   ├── src/                 # 구현 과제
 │   │   └── algorithm/           # 알고리즘 풀이
 │   ├── dwd9999/

@@ -52,6 +52,7 @@
 ```
 week04-recursion-graph/{이름}/
 ├── notes.md
+├── notes/                    # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/
 │   └── Graph.java            # 재사용 가능한 그래프 클래스
 ├── test/

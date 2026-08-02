@@ -50,6 +50,7 @@
 ```
 week03-sort-generic/{이름}/
 ├── notes.md
+├── notes/                     # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/
 │   └── BinarySearch.java     # lowerBound / upperBound
 ├── test/

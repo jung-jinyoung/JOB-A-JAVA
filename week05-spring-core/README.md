@@ -69,6 +69,7 @@
 ```
 week05-spring-core/{이름}/
 ├── notes.md
+├── notes/                     # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/main/java/...         # 스프링 부트 프로젝트
 ├── src/test/java/...
 ├── build.gradle
