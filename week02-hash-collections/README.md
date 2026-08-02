@@ -81,13 +81,15 @@ week02-hash-collections/{이름}/
 
 ## 알고리즘 문제 (3개)
 
-| 유형 | 문제 |
-|---|---|
-| 해시 | [10816 - 숫자 카드 2](https://www.acmicpc.net/problem/10816) |
-| 집합 | [1764 - 듣보잡](https://www.acmicpc.net/problem/1764) |
-| 스택 | [17298 - 오큰수](https://www.acmicpc.net/problem/17298) |
+> **BOJ 점검으로 인한 임시 대체 (프로그래머스)** — 백준이 복구되면 원래 문제(10816, 1764, 17298)로 되돌립니다.
 
-> 17298은 **모노토닉 스택**입니다. 난이도가 한 단계 높으니 시간 배분 주의.
+| 유형 | 문제 | 비고 |
+|---|---|---|
+| 해시 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 빈도 카운팅 후 대조 — 유형 거의 동일 |
+| 집합 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | 근접 매칭 — 원본은 "두 리스트 교집합", 이 문제는 "중복 제거 후 최대 선택" |
+| 스택 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | **모노토닉 스택** — 원본과 기법 동일 |
+
+> 주식가격은 **모노토닉 스택**입니다. 난이도가 한 단계 높으니 시간 배분 주의.
 
 ---
 

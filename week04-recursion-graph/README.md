@@ -80,11 +80,13 @@ week04-recursion-graph/{이름}/
 
 ## 알고리즘 문제 (3개)
 
-| 유형 | 문제 |
-|---|---|
-| DFS/BFS | [1260 - DFS와 BFS](https://www.acmicpc.net/problem/1260) |
-| BFS 최단거리 | [7576 - 토마토](https://www.acmicpc.net/problem/7576) |
-| DP 기초 | [11726 - 2×n 타일링](https://www.acmicpc.net/problem/11726) |
+> **BOJ 점검으로 인한 임시 대체 (프로그래머스)** — 백준이 복구되면 원래 문제(1260, 7576, 11726)로 되돌립니다.
+
+| 유형 | 문제 | 비고 |
+|---|---|---|
+| DFS/BFS | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | 근접 매칭 — 그래프 탐색 기본기는 동일, 원본은 "탐색 순서 출력" · 이 문제는 "연결요소 개수". 난이도가 한 단계 높습니다 |
+| BFS 최단거리 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | 2차원 격자 BFS 최단거리 — 원본과 기법 거의 동일 |
+| DP 기초 | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945) | 이전 두 항의 합으로 점화식을 세우는 1차원 DP — 원본과 기법 동일 |
 
 ---
 

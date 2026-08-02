@@ -102,10 +102,12 @@ week05-spring-core/{이름}/
 
 ## 알고리즘 문제 (2개, 축소)
 
-| 유형 | 문제 |
-|---|---|
-| 그리디 | [11047 - 동전 0](https://www.acmicpc.net/problem/11047) |
-| 그리디 | [1541 - 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |
+> **BOJ 점검으로 인한 임시 대체 (프로그래머스)** — 백준이 복구되면 원래 문제(11047, 1541)로 되돌립니다.
+
+| 유형 | 문제 | 비고 |
+|---|---|---|
+| 그리디 | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 근접 매칭 — 그리디 기초라는 점은 같으나 소재(동전 최소 개수 → 인접 대여)는 다름 |
+| 그리디 | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | 근접 매칭 — 그리디하게 최적값을 만드는 접근은 같으나 소재(괄호 최솟값 → 자릿수 제거 최댓값)는 다름 |
 
 ---
 

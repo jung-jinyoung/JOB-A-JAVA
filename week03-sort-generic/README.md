@@ -78,13 +78,15 @@ week03-sort-generic/{이름}/
 
 ## 알고리즘 문제 (3개)
 
-| 유형 | 문제 |
-|---|---|
-| 정렬/Comparator | [11650 - 좌표 정렬하기](https://www.acmicpc.net/problem/11650) |
-| 매개변수 탐색 | [2805 - 나무 자르기](https://www.acmicpc.net/problem/2805) |
-| 우선순위 큐 | [1927 - 최소 힙](https://www.acmicpc.net/problem/1927) |
+> **BOJ 점검으로 인한 임시 대체 (프로그래머스)** — 백준이 복구되면 원래 문제(11650, 2805, 1927)로 되돌립니다.
 
-> 2805는 **답의 범위를 이분 탐색**하는 유형입니다. `long` 사용에 주의하세요 (1주차 오버플로우와 연결).
+| 유형 | 문제 | 비고 |
+|---|---|---|
+| 정렬/Comparator | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 근접 매칭 — 커스텀 Comparator 정렬 기법은 동일, 소재(2차원 좌표 → 문자열 결합)는 다름 |
+| 매개변수 탐색 | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | 답을 이분 탐색으로 찾는 유형 — 원본과 기법 거의 동일 |
+| 우선순위 큐 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 최소 힙 반복 추출/삽입 — 원본과 기법 동일 |
+
+> 예산은 **답의 범위를 이분 탐색**하는 유형입니다. `long` 사용에 주의하세요 (1주차 오버플로우와 연결).
 
 ---
 
