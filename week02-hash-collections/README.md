@@ -47,7 +47,7 @@
 ```
 week02-hash-collections/{이름}/
 ├── notes.md
-├── notes/                 # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
+├── topics/                 # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/
 │   ├── MyHashMap.java
 │   └── (필요 시) Node.java

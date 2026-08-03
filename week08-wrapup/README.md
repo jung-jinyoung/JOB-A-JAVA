@@ -44,7 +44,7 @@
 week08-wrapup/{이름}/
 ├── README.md              # 프로젝트 문서 (API 명세 포함)
 ├── retrospective.md       # 개인 회고
-├── notes/                  # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
+├── topics/                  # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/
 │   ├── security/           # JWT 발급/검증, SecurityConfig
 │   └── ...                 # 5~7주차 코드 통합본

@@ -52,7 +52,7 @@
 ```
 week07-jpa/{이름}/
 ├── notes.md
-├── notes/                     # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
+├── topics/                     # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/main/java/
 │   ├── entity/
 │   ├── repository/           # JpaRepository

@@ -15,9 +15,9 @@
 ## 2. 학습 내용 정리
 
 <!-- 주제가 하나면 여기에 바로 정리하세요. 이미 아는 건 생략. -->
-<!-- 주제가 여러 개인 주라면 notes/01-theme1.md, notes/02-theme2.md 처럼 나눠 쓰고, 여기엔 목록만 링크로 남기세요. 예: -->
-<!-- - [HashMap 내부 구조](./notes/01-hashmap.md) -->
-<!-- - [TreeMap과 레드-블랙 트리](./notes/02-treemap.md) -->
+<!-- 주제가 여러 개인 주라면 topics/01-theme1.md, topics/02-theme2.md 처럼 나눠 쓰고, 여기엔 목록만 링크로 남기세요. 예: -->
+<!-- - [HashMap 내부 구조](./topics/01-hashmap.md) -->
+<!-- - [TreeMap과 레드-블랙 트리](./topics/02-treemap.md) -->
 
 ---
 

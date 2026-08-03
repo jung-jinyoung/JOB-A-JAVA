@@ -55,7 +55,7 @@
 ```
 week01-java-basics/{이름}/
 ├── notes.md              # 핵심 질문 3개 답변 + 학습 정리
-├── notes/                 # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
+├── topics/                 # (선택) 주제가 여러 개면 01-xxx.md로 나눠서
 ├── src/
 │   └── FastIO.java       # 본인만의 입출력 템플릿 클래스
 └── algorithm/
