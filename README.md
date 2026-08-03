@@ -2,6 +2,13 @@
 
 비대면 · 비동기 스터디 / 인원 3명 / 2026.08 ~ 2026.09
 
+## 스터디원 
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://github.com/jung-jinyoung"><img src="https://github.com/jung-jinyoung.png" width="120px"/></a> | <a href="https://github.com/krozv"><img src="https://github.com/krozv.png" width="120px"/></a> |<a href="https://github.com/dwd9999"><img src="https://github.com/dwd9999.png" width="120px"/></a> |
+| **jung-jinyoung** | **krozv** | **dwd9999** |
+
 ## 목차
 
 - [1. 스터디 목표](#1-스터디-목표)
