@@ -61,7 +61,7 @@ long c = (long) a + b;
 
 - 어떻게 설계했는가  
   읽기 쓰기는 모두 기존 BufferedReader, BufferedWriter의 버퍼를 최대한 활용하도록 설계함  
-  println () 메서드의 경우 BufferedWriter의 write ()와 flush () 메서드를 상황에 맞게 사용할 수 있도록 println ()과 write ()를 따로 구현함
+  `println()` 메서드의 경우 BufferedWriter의 `write()`와 `flush()` 메서드를 상황에 맞게 사용할 수 있도록 `println()`과 `write()`를 따로 구현함
 
 - 막혔던 지점  
   에러 처리를 제대로 했는지 확실하지 않음  
@@ -83,4 +83,7 @@ long c = (long) a + b;
 | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 투포인터  | O(N)       | 통과 |
 
 ## 5. 아직 모르겠는 것
+
+1. ArrayList에 asList는 도대체 왜 있는거지?  
+특별히 기본 배열에 비해 지원하는 메서드가 있는 것도 아닌데 어디에 활용하기 위해 만들어진건지 궁금하다..
 
